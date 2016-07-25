@@ -1,9 +1,8 @@
 # 5 Day weather by city using OpenWeatherMap
 
-Boilerplate and original repo by Stephen Grider.
-This project was done following Stephen's React-Redux course https://www.udemy.com/react-redux
-Original boilerplate:
-https://github.com/StephenGrider/ReduxSimpleStarter
+Boilerplate and original repo by [Stephen Grider](https://github.com/StephenGrider).
+This project was done following Stephen's [React-Redux course](https://www.udemy.com/react-redux)
+
 ###Set-up###
 
 Clone this repo and install dependencies:
