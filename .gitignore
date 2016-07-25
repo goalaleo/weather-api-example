@@ -5,3 +5,6 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
+
+# Ignore my course notes
+notes
